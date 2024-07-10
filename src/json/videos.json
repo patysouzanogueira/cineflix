@@ -1,0 +1,74 @@
+[
+
+    { "id":"egSrCk27YA1Xh1ak",
+     "title": "Seo com React",
+     "cover": "https://img.youtube.com/vi/egSrCk27YA1Xh1ak/maxresdefault.jpg",
+     "url": "https://www.youtube.com/embed/c8mVlakBESE?si=egSrCk27YA1Xh1ak",
+     "category":"Front End"
+    },
+ 
+    { "id":"xi1gm7Y9ZEsxSnsB",
+     "title": "O que faz uma pessoa que trabalha com FRONT END",
+     "cover": "https://img.youtube.com/vi/xi1gm7Y9ZEsxSnsB/maxresdefault.jpg",
+     "url": "https://www.youtube/watch?v=xi1gm7Y9ZEsxSnsB",
+     "category":"Front End"
+    },
+ 
+    { "id":"95v5lfrVyHRUiOrC",
+    "title": "Arvores Binárias",
+    "cover": "https://img.youtube.com/vi/95v5lfrVyHRUiOrC/maxresdefault.jpg",
+    "url": "https://www.youtube/watch?v=95v5lfrVyHRUiOrC",
+    "category":"Front End"
+   },
+ 
+   { "id":"YkEtJsD5oGYWz-Cp",
+   "title": "O que faz uma pessoas que trabalha com UX",
+   "cover": "https://img.youtube.com/vi/YkEtJsD5oGYWz-Cp/maxresdefault.jpg",
+   "url": "https://www.youtube/watch?v=YkEtJsD5oGYWz-Cp",
+   "category":"Front End"
+    },  
+
+    { "id":"VklYCdmR5diiymAH",
+    "title": "O que faz uma pessoa que trabalha com Back End",
+    "cover": "https://img.youtube.com/vi/VklYCdmR5diiymAH/maxresdefault.jpg",
+    "url": "https://www.youtube.com/embed/fiPfvylj6rk?si=VklYCdmR5diiymAH",
+    "category":"Back End"
+    }, 
+
+    { "id":"uZZrlCvcxu_JF_bD",
+    "title": "Githug, Uma Nova Experiência no GitHub",
+    "cover": "https://img.youtube.com/vi/uZZrlCvcxu_JF_bD/maxresdefault.jpg",
+    "url": "https://www.youtube.com/embed/6o6-bKOZOEY?si=uZZrlCvcxu_JF_bD",
+    "category":"Back End"
+    }, 
+
+    { "id":"iXIRiknJ5jSjWxuT",
+    "title": "Qual melhor linguagem de Programação",
+    "cover": "https://img.youtube.com/vi/iXIRiknJ5jSjWxuT/maxresdefault.jpg",
+    "url": "https://www.youtube.com/embed/Uh-GNH-t89w?si=iXIRiknJ5jSjWxuT",
+    "category":"Back End"
+    }, 
+
+
+    { "id":"u0JXxqMJAw4atvr9",
+    "title": "Desenvolvimento Android",
+    "cover": "https://img.youtube.com/vi/u0JXxqMJAw4atvr9/maxresdefault.jpg",
+    "url": "https://www.youtube.com/embed/fWscDFHKgw8?si=u0JXxqMJAw4atvr9",
+    "category":"Mobile"
+    }, 
+
+    { "id":"6StX4tALI09aifzp",
+    "title": "O que é React Native",
+    "cover": "https://img.youtube.com/vi/6StX4tALI09aifzp/maxresdefault.jpg",
+    "url": "https://www.youtube.com/embed/O6TnaSkSC48?si=6StX4tALI09aifzp",
+    "category":"Mobile"
+    }, 
+
+    { "id":"ihOtCK7eTA9cdHin",
+    "title": "Hello Word",
+    "cover": "https://img.youtube.com/vi/ihOtCK7eTA9cdHin/maxresdefault.jpg",
+    "url": "https://www.youtube.com/embed/xSC8j3g17xM?si=ihOtCK7eTA9cdHin",
+    "category":"Mobile"
+    }
+
+ ]

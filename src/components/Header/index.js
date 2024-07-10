@@ -4,7 +4,7 @@ function  Header(){
     return(
         <header className={styles.header}>
 
-            <span> ALURAFLIX </span>
+            <span> CINEFLIX </span>
             <nav>
                 <a href="#">Home</a>
                 <a href="#">Novo Vídeo</a>
