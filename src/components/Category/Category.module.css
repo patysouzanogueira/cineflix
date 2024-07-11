@@ -7,4 +7,31 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    width: 432px;
+    height: 260.85px;
+    top: 0.66px;
+    left: 462.24px;
+    gap: 0px;
+    border-radius: 4px 4px 0px 0px;
+    border: 4px 0px 0px 0px;
+    opacity: 0px;
+
+}
+
+.category h2{
+    padding-block: 1rem;
+    
+}
+
+.category img{
+    width: 350px;
+    height: 260.px;
+    top: 2.79px;
+    left: 924.34px;
+    gap: 0px;
+    border-radius: 4px 4px 0px 0px;
+    border: 4px 0px 0px 0px;
+    opacity: 0px;
+    border: 4px solid #6BD1FF;
+    padding: 4px;
 }

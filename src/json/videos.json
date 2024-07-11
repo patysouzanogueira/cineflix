@@ -1,73 +1,73 @@
 [
 
-    { "id":"egSrCk27YA1Xh1ak",
+    { "id":"c8mVlakBESE&t=2s",
      "title": "Seo com React",
-     "cover": "https://img.youtube.com/vi/egSrCk27YA1Xh1ak/maxresdefault.jpg",
-     "url": "https://www.youtube.com/embed/c8mVlakBESE?si=egSrCk27YA1Xh1ak",
+     "cover": "https://img.youtube.com/vi/c8mVlakBESE&t=2s/maxresdefault.jpg",
+     "url": "https://www.youtube.com/watch?v=c8mVlakBESE&t=2s",
      "category":"Front End"
     },
  
-    { "id":"xi1gm7Y9ZEsxSnsB",
+    { "id":"ZY3-MFxVdEw&t=2s",
      "title": "O que faz uma pessoa que trabalha com FRONT END",
-     "cover": "https://img.youtube.com/vi/xi1gm7Y9ZEsxSnsB/maxresdefault.jpg",
-     "url": "https://www.youtube/watch?v=xi1gm7Y9ZEsxSnsB",
+     "cover": "https://img.youtube.com/vi/ZY3-MFxVdEw&t=2s/maxresdefault.jpg",
+     "url": "https://www.youtube/watch?v=ZY3-MFxVdEw&t=2s",
      "category":"Front End"
     },
  
-    { "id":"95v5lfrVyHRUiOrC",
+    { "id":"VmKkAQtnjsM",
     "title": "Arvores Binárias",
-    "cover": "https://img.youtube.com/vi/95v5lfrVyHRUiOrC/maxresdefault.jpg",
-    "url": "https://www.youtube/watch?v=95v5lfrVyHRUiOrC",
+    "cover": "https://img.youtube.com/vi/VmKkAQtnjsM/maxresdefault.jpg",
+    "url": "https://www.youtube/watch?v=VmKkAQtnjsM",
     "category":"Front End"
    },
  
-   { "id":"YkEtJsD5oGYWz-Cp",
+   { "id":"FJhMCi07T4A&t=8s",
    "title": "O que faz uma pessoas que trabalha com UX",
-   "cover": "https://img.youtube.com/vi/YkEtJsD5oGYWz-Cp/maxresdefault.jpg",
-   "url": "https://www.youtube/watch?v=YkEtJsD5oGYWz-Cp",
+   "cover": "https://img.youtube.com/vi/FJhMCi07T4A&t=8s/maxresdefault.jpg",
+   "url": "https://www.youtube/watch?v=FJhMCi07T4A&t=8s",
    "category":"Front End"
     },  
 
-    { "id":"VklYCdmR5diiymAH",
+    { "id":"fiPfvylj6rk",
     "title": "O que faz uma pessoa que trabalha com Back End",
-    "cover": "https://img.youtube.com/vi/VklYCdmR5diiymAH/maxresdefault.jpg",
-    "url": "https://www.youtube.com/embed/fiPfvylj6rk?si=VklYCdmR5diiymAH",
+    "cover": "https://img.youtube.com/vi/fiPfvylj6rk/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=fiPfvylj6rk",
     "category":"Back End"
     }, 
 
-    { "id":"uZZrlCvcxu_JF_bD",
+    { "id":"6o6-bKOZOEY&t=9s",
     "title": "Githug, Uma Nova Experiência no GitHub",
-    "cover": "https://img.youtube.com/vi/uZZrlCvcxu_JF_bD/maxresdefault.jpg",
-    "url": "https://www.youtube.com/embed/6o6-bKOZOEY?si=uZZrlCvcxu_JF_bD",
+    "cover": "https://img.youtube.com/vi/6o6-bKOZOEY&t=9s/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY&t=9s",
     "category":"Back End"
     }, 
 
-    { "id":"iXIRiknJ5jSjWxuT",
+    { "id":"Uh-GNH-t89w&t=1s",
     "title": "Qual melhor linguagem de Programação",
-    "cover": "https://img.youtube.com/vi/iXIRiknJ5jSjWxuT/maxresdefault.jpg",
-    "url": "https://www.youtube.com/embed/Uh-GNH-t89w?si=iXIRiknJ5jSjWxuT",
+    "cover": "https://img.youtube.com/vi/Uh-GNH-t89w&t=1s/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w&t=1s",
     "category":"Back End"
     }, 
 
 
-    { "id":"u0JXxqMJAw4atvr9",
+    { "id":"fWscDFHKgw8&t=14s",
     "title": "Desenvolvimento Android",
-    "cover": "https://img.youtube.com/vi/u0JXxqMJAw4atvr9/maxresdefault.jpg",
-    "url": "https://www.youtube.com/embed/fWscDFHKgw8?si=u0JXxqMJAw4atvr9",
+    "cover": "https://img.youtube.com/vi/fWscDFHKgw8&t=14s/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=fWscDFHKgw8&t=14s",
     "category":"Mobile"
     }, 
 
-    { "id":"6StX4tALI09aifzp",
+    { "id":"O6TnaSkSC48",
     "title": "O que é React Native",
-    "cover": "https://img.youtube.com/vi/6StX4tALI09aifzp/maxresdefault.jpg",
-    "url": "https://www.youtube.com/embed/O6TnaSkSC48?si=6StX4tALI09aifzp",
+    "cover": "https://img.youtube.com/vi/O6TnaSkSC48/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=O6TnaSkSC48",
     "category":"Mobile"
     }, 
 
-    { "id":"ihOtCK7eTA9cdHin",
+    { "id":"xSC8j3gl7xM&t=6s",
     "title": "Hello Word",
-    "cover": "https://img.youtube.com/vi/ihOtCK7eTA9cdHin/maxresdefault.jpg",
-    "url": "https://www.youtube.com/embed/xSC8j3g17xM?si=ihOtCK7eTA9cdHin",
+    "cover": "https://img.youtube.com/vi/xSC8j3gl7xM&t=6s/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=",
     "category":"Mobile"
     }
 

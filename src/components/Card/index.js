@@ -1,14 +1,15 @@
 import styles from "./Card.module.css";
 
-function Card({ id }) {
+function Card({ id,img }) {
     return (
-       <section className={styles.card}>
+       <section className={styles.Card}>
           <a
            href={`https://www.youtube.com/watch?v=${id}`}
              rel="noreferrer noopener"             
              target="_blank"
-             >
-             <img src={`https://img.youtube.com/vi/${id}/mqdefalt.jpg`} alt="conteudo front end"/>
+            >
+
+             <img src={img} alt="conteudo" />
           </a>
        </section>
     );
@@ -16,4 +17,3 @@ function Card({ id }) {
 
 export default Card
 
-// fiPfvylj6rk
