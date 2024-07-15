@@ -1,50 +1,51 @@
 [
 
-    { "id":"c8mVlakBESE&t=2s",
+    { "id":"c8mVlakBESE&t=1s",
      "title": "Seo com React",
-     "cover": "https://img.youtube.com/vi/c8mVlakBESE&t=2s/maxresdefault.jpg",
+     "cover": "https://i.ytimg.com/vi/c8mVlakBESE/maxresdefault.jpg",
      "url": "https://www.youtube.com/watch?v=c8mVlakBESE&t=2s",
      "category":"Front End"
     },
+
  
     { "id":"ZY3-MFxVdEw&t=2s",
      "title": "O que faz uma pessoa que trabalha com FRONT END",
-     "cover": "https://img.youtube.com/vi/ZY3-MFxVdEw&t=2s/maxresdefault.jpg",
+     "cover": "https://i.ytimg.com/vi/ZY3-MFxVdEw/maxresdefault.jpg",
      "url": "https://www.youtube/watch?v=ZY3-MFxVdEw&t=2s",
      "category":"Front End"
     },
  
     { "id":"VmKkAQtnjsM",
     "title": "Arvores Binárias",
-    "cover": "https://img.youtube.com/vi/VmKkAQtnjsM/maxresdefault.jpg",
+    "cover": "https://i.ytimg.com/vi/VmKkAQtnjsM/sddefault.jpg",
     "url": "https://www.youtube/watch?v=VmKkAQtnjsM",
     "category":"Front End"
    },
  
    { "id":"FJhMCi07T4A&t=8s",
    "title": "O que faz uma pessoas que trabalha com UX",
-   "cover": "https://img.youtube.com/vi/FJhMCi07T4A&t=8s/maxresdefault.jpg",
+   "cover": "https://i.ytimg.com/vi/FJhMCi07T4A/hqdefault.jpg",
    "url": "https://www.youtube/watch?v=FJhMCi07T4A&t=8s",
    "category":"Front End"
     },  
 
     { "id":"fiPfvylj6rk",
     "title": "O que faz uma pessoa que trabalha com Back End",
-    "cover": "https://img.youtube.com/vi/fiPfvylj6rk/maxresdefault.jpg",
+    "cover": "https://i.ytimg.com/vi/fiPfvylj6rk/sddefault.jpg",
     "url": "https://www.youtube.com/watch?v=fiPfvylj6rk",
     "category":"Back End"
     }, 
 
     { "id":"6o6-bKOZOEY&t=9s",
-    "title": "Githug, Uma Nova Experiência no GitHub",
-    "cover": "https://img.youtube.com/vi/6o6-bKOZOEY&t=9s/maxresdefault.jpg",
+    "title": "Github, Uma Nova Experiência no GitHub",
+    "cover": "https://i.ytimg.com/vi/6o6-bKOZOEY/maxresdefault.jpg",
     "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY&t=9s",
     "category":"Back End"
     }, 
 
     { "id":"Uh-GNH-t89w&t=1s",
     "title": "Qual melhor linguagem de Programação",
-    "cover": "https://img.youtube.com/vi/Uh-GNH-t89w&t=1s/maxresdefault.jpg",
+    "cover": "https://i.ytimg.com/vi/Uh-GNH-t89w/maxresdefault.jpg",
     "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w&t=1s",
     "category":"Back End"
     }, 
@@ -52,21 +53,21 @@
 
     { "id":"fWscDFHKgw8&t=14s",
     "title": "Desenvolvimento Android",
-    "cover": "https://img.youtube.com/vi/fWscDFHKgw8&t=14s/maxresdefault.jpg",
+    "cover": "https://i.ytimg.com/vi/fWscDFHKgw8/maxresdefault.jpg",
     "url": "https://www.youtube.com/watch?v=fWscDFHKgw8&t=14s",
     "category":"Mobile"
     }, 
 
     { "id":"O6TnaSkSC48",
     "title": "O que é React Native",
-    "cover": "https://img.youtube.com/vi/O6TnaSkSC48/maxresdefault.jpg",
+    "cover": "https://i.ytimg.com/vi/O6TnaSkSC48/maxresdefault.jpg",
     "url": "https://www.youtube.com/watch?v=O6TnaSkSC48",
     "category":"Mobile"
     }, 
 
     { "id":"xSC8j3gl7xM&t=6s",
     "title": "Hello Word",
-    "cover": "https://img.youtube.com/vi/xSC8j3gl7xM&t=6s/maxresdefault.jpg",
+    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVUWmrSq776ahTtFitPrJeiiMvXJjMZ6Ks5A&s",
     "url": "https://www.youtube.com/watch?v=",
     "category":"Mobile"
     }

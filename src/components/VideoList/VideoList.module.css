@@ -1,0 +1,14 @@
+.videos{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+    margin-top: 55px;
+}
+
+h2 {
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+    color: white;
+}

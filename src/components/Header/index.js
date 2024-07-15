@@ -9,7 +9,8 @@ function  Header(){
             </Link>
             <nav>
                 <Link to="/">Home</Link>
-                <Link to="/watch">Novo Vídeo</Link>
+                {/* <Link to="/watch">Assistir</Link> */}
+                <Link to="/search">Novo Video</Link>
             </nav>
 
         </header>
